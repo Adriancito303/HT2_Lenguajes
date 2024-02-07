@@ -12,7 +12,7 @@ foreach (string line in File.ReadLines(filePath))
     //ignoralas lineas vacias o que solo contienen espacios en blanco
     if (string.IsNullOrWhiteSpace(line))
     {
-        continue; //Pasa a la siguiente línea
+        continue; //Pasa a la siguiente linea
     }
     Letra.VerificaLetra(line, lineNumber);
 }
