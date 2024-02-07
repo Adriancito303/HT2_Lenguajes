@@ -1,0 +1,14 @@
+C:\Users\julio\Downloads\PROYECTO-PARTE1\obj\Debug\net7.0\PROYECTO-PARTE1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Downloads\PROYECTO-PARTE1\obj\Debug\net7.0\PROYECTO-PARTE1.AssemblyInfoInputs.cache
+C:\Users\julio\Downloads\PROYECTO-PARTE1\obj\Debug\net7.0\PROYECTO-PARTE1.AssemblyInfo.cs
+C:\Users\julio\Downloads\PROYECTO-PARTE1\obj\Debug\net7.0\PROYECTO-PARTE1.csproj.CoreCompileInputs.cache
+C:\Users\julio\Downloads\PROYECTO-PARTE1\bin\Debug\net7.0\PROYECTO-PARTE1.exe
+C:\Users\julio\Downloads\PROYECTO-PARTE1\bin\Debug\net7.0\PROYECTO-PARTE1.deps.json
+C:\Users\julio\Downloads\PROYECTO-PARTE1\bin\Debug\net7.0\PROYECTO-PARTE1.runtimeconfig.json
+C:\Users\julio\Downloads\PROYECTO-PARTE1\bin\Debug\net7.0\PROYECTO-PARTE1.dll
+C:\Users\julio\Downloads\PROYECTO-PARTE1\bin\Debug\net7.0\PROYECTO-PARTE1.pdb
+C:\Users\julio\Downloads\PROYECTO-PARTE1\obj\Debug\net7.0\PROYECTO-PARTE1.dll
+C:\Users\julio\Downloads\PROYECTO-PARTE1\obj\Debug\net7.0\refint\PROYECTO-PARTE1.dll
+C:\Users\julio\Downloads\PROYECTO-PARTE1\obj\Debug\net7.0\PROYECTO-PARTE1.pdb
+C:\Users\julio\Downloads\PROYECTO-PARTE1\obj\Debug\net7.0\PROYECTO-PARTE1.genruntimeconfig.cache
+C:\Users\julio\Downloads\PROYECTO-PARTE1\obj\Debug\net7.0\ref\PROYECTO-PARTE1.dll
