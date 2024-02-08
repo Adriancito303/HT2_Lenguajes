@@ -12,3 +12,18 @@ C:\Users\julio\Downloads\PROYECTO-PARTE1\obj\Debug\net7.0\refint\PROYECTO-PARTE1
 C:\Users\julio\Downloads\PROYECTO-PARTE1\obj\Debug\net7.0\PROYECTO-PARTE1.pdb
 C:\Users\julio\Downloads\PROYECTO-PARTE1\obj\Debug\net7.0\PROYECTO-PARTE1.genruntimeconfig.cache
 C:\Users\julio\Downloads\PROYECTO-PARTE1\obj\Debug\net7.0\ref\PROYECTO-PARTE1.dll
+C:\Users\cadri\OneDrive\Documentos\TAREAS\2024\Primer Semestre\Lenguajes formales y automatas\HT2_CésarSilva_1184519\PROYECTO-PARTE1\obj\Debug\net7.0\PROYECTO-PARTE1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cadri\OneDrive\Documentos\TAREAS\2024\Primer Semestre\Lenguajes formales y automatas\HT2_CésarSilva_1184519\PROYECTO-PARTE1\obj\Debug\net7.0\PROYECTO-PARTE1.AssemblyInfoInputs.cache
+C:\Users\cadri\OneDrive\Documentos\TAREAS\2024\Primer Semestre\Lenguajes formales y automatas\HT2_CésarSilva_1184519\PROYECTO-PARTE1\obj\Debug\net7.0\PROYECTO-PARTE1.AssemblyInfo.cs
+C:\Users\cadri\OneDrive\Documentos\TAREAS\2024\Primer Semestre\Lenguajes formales y automatas\HT2_CésarSilva_1184519\PROYECTO-PARTE1\obj\Debug\net7.0\PROYECTO-PARTE1.csproj.CoreCompileInputs.cache
+C:\Users\cadri\OneDrive\Documentos\TAREAS\2024\Primer Semestre\Lenguajes formales y automatas\HT2_CésarSilva_1184519\PROYECTO-PARTE1\obj\Debug\net7.0\PROYECTO-PARTE1.sourcelink.json
+C:\Users\cadri\OneDrive\Documentos\TAREAS\2024\Primer Semestre\Lenguajes formales y automatas\HT2_CésarSilva_1184519\PROYECTO-PARTE1\obj\Debug\net7.0\PROYECTO-PARTE1.dll
+C:\Users\cadri\OneDrive\Documentos\TAREAS\2024\Primer Semestre\Lenguajes formales y automatas\HT2_CésarSilva_1184519\PROYECTO-PARTE1\obj\Debug\net7.0\refint\PROYECTO-PARTE1.dll
+C:\Users\cadri\OneDrive\Documentos\TAREAS\2024\Primer Semestre\Lenguajes formales y automatas\HT2_CésarSilva_1184519\PROYECTO-PARTE1\obj\Debug\net7.0\PROYECTO-PARTE1.pdb
+c:\Users\cadri\OneDrive\Documentos\TAREAS\2024\Primer Semestre\Lenguajes formales y automatas\HT2_CésarSilva_1184519\PROYECTO-PARTE1\bin\Debug\net7.0\PROYECTO-PARTE1.exe
+c:\Users\cadri\OneDrive\Documentos\TAREAS\2024\Primer Semestre\Lenguajes formales y automatas\HT2_CésarSilva_1184519\PROYECTO-PARTE1\bin\Debug\net7.0\PROYECTO-PARTE1.deps.json
+c:\Users\cadri\OneDrive\Documentos\TAREAS\2024\Primer Semestre\Lenguajes formales y automatas\HT2_CésarSilva_1184519\PROYECTO-PARTE1\bin\Debug\net7.0\PROYECTO-PARTE1.runtimeconfig.json
+c:\Users\cadri\OneDrive\Documentos\TAREAS\2024\Primer Semestre\Lenguajes formales y automatas\HT2_CésarSilva_1184519\PROYECTO-PARTE1\bin\Debug\net7.0\PROYECTO-PARTE1.dll
+c:\Users\cadri\OneDrive\Documentos\TAREAS\2024\Primer Semestre\Lenguajes formales y automatas\HT2_CésarSilva_1184519\PROYECTO-PARTE1\bin\Debug\net7.0\PROYECTO-PARTE1.pdb
+c:\Users\cadri\OneDrive\Documentos\TAREAS\2024\Primer Semestre\Lenguajes formales y automatas\HT2_CésarSilva_1184519\PROYECTO-PARTE1\obj\Debug\net7.0\PROYECTO-PARTE1.genruntimeconfig.cache
+c:\Users\cadri\OneDrive\Documentos\TAREAS\2024\Primer Semestre\Lenguajes formales y automatas\HT2_CésarSilva_1184519\PROYECTO-PARTE1\obj\Debug\net7.0\ref\PROYECTO-PARTE1.dll

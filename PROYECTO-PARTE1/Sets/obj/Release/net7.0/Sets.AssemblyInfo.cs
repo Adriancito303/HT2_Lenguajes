@@ -11,13 +11,13 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Sets")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8350581a237b2fcbc7bb8240c7e27f0d0c44012b")]
-[assembly: System.Reflection.AssemblyProductAttribute("Sets")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Sets")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+//[assembly: System.Reflection.AssemblyCompanyAttribute("Sets")]
+//[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
+//[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+//[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ee29c007366b4524d18a5336f7ef1c84b48a937")]
+//[assembly: System.Reflection.AssemblyProductAttribute("Sets")]
+//[assembly: System.Reflection.AssemblyTitleAttribute("Sets")]
+//[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
 

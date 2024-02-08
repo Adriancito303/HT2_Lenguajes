@@ -8,24 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\julio\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\cadri\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\julio\\Downloads\\PROYECTO-PARTE1\\PROYECTO-PARTE1.csproj",
+      "projectUniqueName": "C:\\Users\\cadri\\OneDrive\\Documentos\\TAREAS\\2024\\Primer Semestre\\Lenguajes formales y automatas\\HT2_CésarSilva_1184519\\PROYECTO-PARTE1\\PROYECTO-PARTE1.csproj",
       "projectName": "PROYECTO-PARTE1",
-      "projectPath": "C:\\Users\\julio\\Downloads\\PROYECTO-PARTE1\\PROYECTO-PARTE1.csproj",
-      "packagesPath": "C:\\Users\\julio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\julio\\Downloads\\PROYECTO-PARTE1\\obj\\",
+      "projectPath": "C:\\Users\\cadri\\OneDrive\\Documentos\\TAREAS\\2024\\Primer Semestre\\Lenguajes formales y automatas\\HT2_CésarSilva_1184519\\PROYECTO-PARTE1\\PROYECTO-PARTE1.csproj",
+      "packagesPath": "C:\\Users\\cadri\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cadri\\OneDrive\\Documentos\\TAREAS\\2024\\Primer Semestre\\Lenguajes formales y automatas\\HT2_CésarSilva_1184519\\PROYECTO-PARTE1\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\cadri\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

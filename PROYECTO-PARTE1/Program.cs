@@ -2,7 +2,8 @@
 using System.IO;
 using Sets;
 
-string filePath = "C:\\Users\\julio\\Downloads\\GRAMATICA.txt";
+string filePath = "C:\\Users\\cadri\\OneDrive\\Documentos\\TAREAS\\2024\\Primer Semestre\\Lenguajes formales y automatas\\Proyecto lenguajes\\GRAMATICA.txt";
+
 int lineNumber = 0;
 
 foreach (string line in File.ReadLines(filePath))

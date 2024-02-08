@@ -7,7 +7,7 @@ namespace Sets
         public static void VerificaLetra(string line, int num)
         {
             var pattern = @"^\s*([a-zA-Z_]+)\s*=\s*((('[a-zA-Z]')(\s*\.\.\s*('[a-zA-Z]'))?)|('[_]'))(\s*\+\s*((('[a-zA-Z]')(\s*\.\.\s*('[a-zA-Z]'))?)|('[_]')))*\s*$";
-
+             
             // \s* -> espacio en blanco
             // * a lo mejor podria haber algo, y si hay algo podria ser infinito 
             // \. busca una unica aparicion del separador decimal
